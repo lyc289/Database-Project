@@ -1,0 +1,26 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+./backend/api/migrations/*
+./backend/images/*
+
+# Vue.js
+node_modules/
+dist/
+*.log
+*.env
+
+# General
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+try.py
